@@ -3,6 +3,9 @@
 ## Project Overview
 An end-to-end Natural Language Processing (NLP) binary classification pipeline built to automatically detect and filter unsolicited spam messages from legitimate communications (ham). The workflow implements text normalization, tokenization, stemming, TF-IDF vectorization, model benchmarking, and error trade-off analysis.
 
+## 🎬 Walkthrough Video
+[Watch Demo Video](DataScience-Task4-EmailSpamDetection.mp4)
+
 ## Dataset Description
 * **Source:** SMS Spam Collection Dataset
 * **Observations:** 5,169 unique messages (after removing duplicates)

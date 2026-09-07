@@ -3,6 +3,9 @@
 ## Overview
 An exploratory data analysis (EDA) project analyzing temporal trajectories, regional disparities, and the economic shock delivered by the COVID-19 nationwide lockdowns on Indian unemployment metrics.
 
+## 🎬 Walkthrough Video
+[Watch Demo Video](DataScience-Task2-UnemploymentAnalysis.mp4)
+
 ## Dataset
 * **File:** `Unemployment in India.csv`
 * **Features:** State, Date, Frequency, Estimated Unemployment Rate (%), Estimated Employed, Estimated Labour Participation Rate (%), Area (Rural vs. Urban)

@@ -3,8 +3,9 @@
 ## Project Overview
 An end-to-end regression machine learning project to estimate the resale value of pre-owned vehicles. Using the CarDekho dataset, this project implements complete feature engineering, exploratory data analysis, categorical encoding, and comparative model benchmarking across linear and tree-based regression algorithms.
 
-## 🎬 Walkthrough Video
-[Watch Demo Video](DataScience-Task3-CarPricePrediction.mp4)
+## 🎬 Video Walkthrough
+🎥 [Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/d5GE_t5g)
+
 
 ## Dataset Description
 * **Source:** CarDekho Vehicle Dataset (Kaggle)

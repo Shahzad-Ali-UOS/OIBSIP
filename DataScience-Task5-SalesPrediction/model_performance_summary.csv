@@ -1,0 +1,3 @@
+Model,MAE,RMSE,R² Score
+Linear Regression (Baseline),1.4608,1.7816,0.8994
+Random Forest Regressor,0.6203,0.7687,0.9813

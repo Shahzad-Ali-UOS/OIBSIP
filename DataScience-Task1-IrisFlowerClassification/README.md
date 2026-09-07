@@ -2,8 +2,9 @@
 
 ## Overview
 Machine learning classification model predicting Iris species (*Setosa*, *Versicolor*, *Virginica*) from physical flower measurements.
-## 🎬 Walkthrough Video
-[Watch Demo Video](DataScience-Task1-IrisFlowerClassification.mp4)
+
+## 🎬 Video Walkthrough
+🎥 [Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/daegAMUX)
 
 ## Dataset
 * **Source:** `sklearn.datasets.load_iris()`

@@ -32,7 +32,7 @@ An end-to-end regression modeling pipeline built to forecast product unit sales 
 * **Newspaper:** Produces a near-zero coefficient and negligible importance, indicating print ad spend should be rechanneled to digital/broadcast formats.
 
 ## 🎬 Video Demonstration
-🎥 [Watch the Video Demonstration on LinkedIn](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+🎥 [Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/dabuSj9n)
 
 ## Tech Stack
 * **Language:** Python
